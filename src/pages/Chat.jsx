@@ -108,7 +108,7 @@ const Chat = ({ userInfo, partnerInfo }) => {
           </form>
           <button
             type="submit"
-            form="senForm" 
+            form="sendForm" 
             className="w-10 min-w-10 h-10 inline-block rounded-full bg-date-blue-600 text-none px-2 bg-[url('../public/images/send.svg')] bg-no-repeat bg-center"
           >
             보내기
